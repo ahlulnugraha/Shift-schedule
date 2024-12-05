@@ -17,17 +17,17 @@ To get started with the Shift Schedule OC3, follow these steps:
 
 1. **Download Google Calendar**: You can download Google Calendar on Playstore (Android) or AppStore (iOS) if you using iPhone, while it's not necessary I suggest using Google Calendar as to avoid any issue with calendar not syncing.
 2. **Login to Google Calendar**: Log in to the Google Calendar using your credentials.
-3. **Choose Group/Team**: Choose which group/team you currently are and click link below that match your group/team, this will download calendar list as .ics (Android) or .ical (Apple & others).
+3. **Choose Group/Team**: Choose which group/team you currently are and click link below that match your group/team, this will download calendar list as .ics (Android,iOS & Others) or .ical.
 4. **Configure**: Simply open your downloaded .ics file using your phone.
 5. **Sync**: Let it sync your previous .ics file to your calendar app.
 
-Link to files (Android):
+Link to .ics:
 -  **Group 1**: [LINK](https://calendar.google.com/calendar/u/0?cid=YmQ2NTIxZDVmZDg5MmI0MWFmNGZiZDVlNTFiZDYzNWI3YTViMTY3M2QzMjk0MDE3YWNmOTU1MGRiMGVmM2JlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 -  **Group 2**: [LINK](https://calendar.google.com/calendar/u/0?cid=MXJzN21rc2puM25iNzVsZGRrcm9mMGpwZTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 -  **Group 3**: [LINK](https://calendar.google.com/calendar/u/0?cid=MjYzZWE5YjNhYjJmNTVhNDA1NGU1M2VkMDU3YzYzNzdiMmUwZWZkMmU5ODhkZWZjY2E5MTJjZTc0NWI5ZjA2M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 -  **Group 4**: [LINK](https://calendar.google.com/calendar/u/0?cid=MjY3YzViZTJlNzk5NTIyNThkM2QyYzg2Yjk2YWFhMjM1YjNhOTYwYjFkNGY0NGNlNmNkZDkwMjliYzc3YzExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-Link to iCal format (Apple, Windows):
+Link to .ical format:
 - **Group 1**: [LINK](https://calendar.google.com/calendar/ical/bd6521d5fd892b41af4fbd5e51bd635b7a5b1673d3294017acf9550db0ef3be8%40group.calendar.google.com/public/basic.ics)
 - **Group 2**: [LINK](https://calendar.google.com/calendar/ical/1rs7mksjn3nb75lddkrof0jpe4%40group.calendar.google.com/public/basic.ics)
 - **Group 3**: [LINK](https://calendar.google.com/calendar/ical/263ea9b3ab2f55a4054e53ed057c6377b2e0efd2e988defcca912ce745b9f063%40group.calendar.google.com/public/basic.ics)
@@ -51,6 +51,10 @@ Contributions to the Shift Schedule OC3 are welcome! If you encounter any issues
 - Group 2 (Me) ahlulwnugraha@gmail.com
 - Group 3 
 - Group 4 oc3grup4@gmail.com
+
+## Notes
+
+If you're not sure which format to use, choose .ics. 
 
 ## License
 
