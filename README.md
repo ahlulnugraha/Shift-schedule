@@ -42,21 +42,17 @@ If you prefer to download and set up the calendar manually on your device(s), us
 ## Tutorials and Screenshots
 
 Check out the following tutorials to help you get started with Group 1:
-	
-        •	Android
- 
-	•	Apple (iOS/iPadOS)
- 
-	•	Windows
- 
- 
+
+- Android
+- Apple (iOS/iPadOS)
+- Windows
+
+  
 Screenshots for reference
-        
-	•	Android
-	
-	•	Apple (iOS/iPadOS)
- 
-	•	Windows
+
+- Android
+- Apple (iOS/iPadOS)
+- Windows
  
 
 ## Contributions
