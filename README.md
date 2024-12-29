@@ -1,47 +1,55 @@
 # Shift-Schedule
 ## Overview
 
-The Shift Schedule is designed to simplify the process of managing shift schedules (also reminders) for teams and groups. This platform allows for easy creation, distribution, and tracking of shift schedules, ensuring smooth coordination among team members. The project integrates seamlessly with Google Calendar (and other), providing team members with convenient access to their schedules.
+The Shift Schedule is designed to simplify the process of managing and tracking shift schedules for teams and groups. This platform allows for the easy creation, distribution, and monitoring of schedules, ensuring smooth coordination among team members. It integrates seamlessly with Google Calendar (and other calendar services), providing convenient access and visibility to team members.
 
 ## Features
 
 - **Shift Schedule Creation**: Easily create shift schedules for your team members.
 - **Integration with Google Calendar**: Automatically sync shift schedules with Google Calendar for easy access and visibility.
-- **Distribution**: Share schedules with team members effortlessly.
-- **Tracking**: Keep track of shifts and monitor changes in real-time.
-- **Customization**: Customize shift schedules according to your team's specific needs and preferences by defaults reminders are only turned on off-day, you can adjust by your needs.
+- **Distribution**: Effortlessly share schedules with team members.
+- **Tracking**: Monitor shifts and track changes in real-time.
+- **Customization**: Tailor shift schedules to meet your team’s specific needs and preferences. By default, reminders are only enabled for off-days, but you can adjust these settings as needed.
 
 ## Getting Started
 
 To get started with the Shift Schedule OC3, follow these steps:
 
-1. **Download Google Calendar**: You can download Google Calendar on Playstore (Android) or AppStore (iOS) if you using iPhone, while it's not necessary I suggest using Google Calendar as to avoid any issue with calendar not syncing.
-2. **Login to Google Calendar**: Log in to the Google Calendar using your credentials.
-3. **Choose Group/Team**: Choose which group/team you currently are and click link below that match your group/team, this will open google calendar app (if installed)to subscribe calendar.
-4. **Configure**: You can manage more your own preferences in setting.
-5. **Sync**: Let it sync your newly subscribed calendar.
+1. **Download Google Calendar**: Download Google Calendar from the Play Store (Android) or App Store (iOS). While not mandatory, using Google Calendar is recommended to avoid syncing issues.
+2. **Log In to Google Calendar**: Log in to the Google Calendar using your credentials.
+3. **Choose Group/Team**: Select your group or team and click the corresponding link below. This will open the Google Calendar app (if installed) and allow you to subscribe to the calendar.
+4. **Configure Preferences**: Customize your preferences in the calendar settings as needed.
+5. **Sync**: Customize your preferences in the calendar settings as needed.
 
-Link to group:
--  **Group 1**: [LINK](https://calendar.google.com/calendar/u/0?cid=YmQ2NTIxZDVmZDg5MmI0MWFmNGZiZDVlNTFiZDYzNWI3YTViMTY3M2QzMjk0MDE3YWNmOTU1MGRiMGVmM2JlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
--  **Group 2**: [LINK](https://calendar.google.com/calendar/u/0?cid=MXJzN21rc2puM25iNzVsZGRrcm9mMGpwZTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
--  **Group 3**: [LINK](https://calendar.google.com/calendar/u/0?cid=MjYzZWE5YjNhYjJmNTVhNDA1NGU1M2VkMDU3YzYzNzdiMmUwZWZkMmU5ODhkZWZjY2E5MTJjZTc0NWI5ZjA2M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
--  **Group 4**: [LINK](https://calendar.google.com/calendar/u/0?cid=MjY3YzViZTJlNzk5NTIyNThkM2QyYzg2Yjk2YWFhMjM1YjNhOTYwYjFkNGY0NGNlNmNkZDkwMjliYzc3YzExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+## Links to Groups
 
-Below is link to .ical/.ics format if you prefer to download and set up manually on your device(s)
+Click the respective links below to subscribe to your group calendar:
 
-Link to .ical format:
-- **Group 1**: [LINK](https://calendar.google.com/calendar/ical/bd6521d5fd892b41af4fbd5e51bd635b7a5b1673d3294017acf9550db0ef3be8%40group.calendar.google.com/public/basic.ics)
-- **Group 2**: [LINK](https://calendar.google.com/calendar/ical/1rs7mksjn3nb75lddkrof0jpe4%40group.calendar.google.com/public/basic.ics)
-- **Group 3**: [LINK](https://calendar.google.com/calendar/ical/263ea9b3ab2f55a4054e53ed057c6377b2e0efd2e988defcca912ce745b9f063%40group.calendar.google.com/public/basic.ics)
-- **Group 4**: [LINK](https://calendar.google.com/calendar/ical/267c5be2e79952258d3d2c86b96aaa235b3a960b1d4f44ce6cdd9029bc77c115%40group.calendar.google.com/public/basic.ics)
+-  **Group 1**: [Subscribe Here](https://calendar.google.com/calendar/u/0?cid=YmQ2NTIxZDVmZDg5MmI0MWFmNGZiZDVlNTFiZDYzNWI3YTViMTY3M2QzMjk0MDE3YWNmOTU1MGRiMGVmM2JlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+-  **Group 2**: [Subscribe Here](https://calendar.google.com/calendar/u/0?cid=MXJzN21rc2puM25iNzVsZGRrcm9mMGpwZTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+-  **Group 3**: [Subscribe Here](https://calendar.google.com/calendar/u/0?cid=MjYzZWE5YjNhYjJmNTVhNDA1NGU1M2VkMDU3YzYzNzdiMmUwZWZkMmU5ODhkZWZjY2E5MTJjZTc0NWI5ZjA2M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+-  **Group 4**: [Subscribe Here](https://calendar.google.com/calendar/u/0?cid=MjY3YzViZTJlNzk5NTIyNThkM2QyYzg2Yjk2YWFhMjM1YjNhOTYwYjFkNGY0NGNlNmNkZDkwMjliYzc3YzExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-You can also follow this short tutorial video, this are example for Group 1:
-- Android
-- Apple (iOS, iPadOS), Windows
+## Links to .ical Format
 
-These below are screenshots using respectable devices:
-- Android
-- Apple (iOS, iPadOS), Windows
+If you prefer to download and set up the calendar manually on your device(s), use the links below:
+
+- **Group 1**: [Download Here](https://calendar.google.com/calendar/ical/bd6521d5fd892b41af4fbd5e51bd635b7a5b1673d3294017acf9550db0ef3be8%40group.calendar.google.com/public/basic.ics)
+- **Group 2**: [Download Here](https://calendar.google.com/calendar/ical/1rs7mksjn3nb75lddkrof0jpe4%40group.calendar.google.com/public/basic.ics)
+- **Group 3**: [Download Here](https://calendar.google.com/calendar/ical/263ea9b3ab2f55a4054e53ed057c6377b2e0efd2e988defcca912ce745b9f063%40group.calendar.google.com/public/basic.ics)
+- **Group 4**: [Download Here](https://calendar.google.com/calendar/ical/267c5be2e79952258d3d2c86b96aaa235b3a960b1d4f44ce6cdd9029bc77c115%40group.calendar.google.com/public/basic.ics)
+
+## Tutorials and Screenshots
+
+Check out the following tutorials to help you get started with Group 1:
+	•	Android
+	•	Apple (iOS/iPadOS)
+	•	Windows
+ 
+Screenshots for reference
+  •	Android
+	•	Apple (iOS/iPadOS)
+	•	Windows
 
 ## Contributions
 
@@ -49,6 +57,7 @@ Contributions to the Shift Schedule OC3 are welcome! If you encounter any issues
 
 ## Maintainer
 
+For inquiries or assistance, you can contact the respective maintainers for each group:
 - Group 1  dede.saputra.detra@gmail.com
 - Group 2 (Me) ahlulwnugraha@gmail.com
 - Group 3 anif.irsyad@gmail.com
@@ -56,7 +65,7 @@ Contributions to the Shift Schedule OC3 are welcome! If you encounter any issues
 
 ## Notes
 
-If you're felt lost, just install google calendar, login and follow respectable link for your group. 
+If you’re feeling lost, simply install Google Calendar, log in, and follow the appropriate group link above to get started.
 
 ## License
 
