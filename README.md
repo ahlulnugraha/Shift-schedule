@@ -43,16 +43,16 @@ If you prefer to download and set up the calendar manually on your device(s), us
 
 Check out the following tutorials to help you get started with Group 1:
 
-- [Android](Screenshots/Android_screenshot_gcal.jpeg)
-- [Samsung](Sceenshots/Samsung_screenshot_native.jpeg)
-- [Apple (iOS/iPadOS)](Screenshots/Mac_screenshot.png)
+- Android
+- Apple (iOS/iPadOS)
 - Windows
 
   
 Screenshots for reference
 
-- Android
-- Apple (iOS/iPadOS)
+- ![Android Screenshot](Screenshots/Android_screenshot_gcal.jpeg)
+- ![Samsung Screenshot](Screenshots/Samsung_screenshot_native.jpeg)
+- ![Apple (iOS/iPadOS Screenshot)](Screenshots/Mac_screenshot.png)
 - Windows
  
 
