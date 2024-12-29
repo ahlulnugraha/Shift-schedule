@@ -42,7 +42,8 @@ If you prefer to download and set up the calendar manually on your device(s), us
 ## Tutorials and Screenshots
 
 Check out the following tutorials to help you get started with Group 1:
-	•	Android
+	
+        •	Android
  
 	•	Apple (iOS/iPadOS)
  
@@ -50,7 +51,8 @@ Check out the following tutorials to help you get started with Group 1:
  
  
 Screenshots for reference
-        •	Android
+        
+	•	Android
 	
 	•	Apple (iOS/iPadOS)
  
