@@ -51,10 +51,12 @@ Check out the following tutorials to help you get started with Group 1:
   
 Screenshots for reference
 
-- ![Android Screenshot](Screenshots/Android_screenshot_gcal.jpeg)
-- ![Samsung Screenshot](Screenshots/Samsung_screenshot_native.jpeg)
-- ![Apple (iOS/iPadOS Screenshot)](Screenshots/Mac_screenshot.png)
-- Windows
+<p align="center">
+  <img src="Screenshots/Android_screenshot_gcal.jpeg" alt="Android Screenshot" width="200" />
+  <img src="Screenshots/Android_screenshot_gcal2.jpeg" alt="Android Screenshot" width="200" />
+  <img src="Screenshots/Samsung_screenshot_native.jpeg" alt="Samsung Screenshot" width="200" />
+  <img src="Screenshots/Mac_screenshot.png" alt="Apple (iOS/iPadOS Screenshot)" width="600" />
+</p>
  
 
 ## Contributions
