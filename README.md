@@ -32,7 +32,7 @@ Click the respective links below to subscribe to your group calendar:
 
 ## Links to .ical Format
 
-If you prefer to download and set up the calendar manually on your device(s), use the links below:
+If you prefer to download and set up the calendar manually on your device(s), use the links below, this also applies to apple (iOS/iPadOS) calendar, just copy the link (for apple devices) no need to download:
 
 - **Group 1**: [Download Here](https://calendar.google.com/calendar/ical/bd6521d5fd892b41af4fbd5e51bd635b7a5b1673d3294017acf9550db0ef3be8%40group.calendar.google.com/public/basic.ics)
 - **Group 2**: [Download Here](https://calendar.google.com/calendar/ical/1rs7mksjn3nb75lddkrof0jpe4%40group.calendar.google.com/public/basic.ics)
